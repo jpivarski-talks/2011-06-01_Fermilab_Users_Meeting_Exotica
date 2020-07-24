@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3065"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   width="1508.9851"
+   height="670.86548"
+   sodipodi:docname="dijet_trijet.svg">
+  <metadata
+     id="metadata3071">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3069" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1029"
+     inkscape:window-height="846"
+     id="namedview3067"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.40606061"
+     inkscape:cx="693.41792"
+     inkscape:cy="202.41791"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3065" />
+  <image
+     width="846.32092"
+     height="586.11938"
+     xlink:href="file:///home/pivarski/physics/talks/latest/plots/threejet_mass_gtr6jet_data.png"
+     id="image3073"
+     x="662.66418"
+     y="67.029678" />
+  <image
+     width="621"
+     height="592"
+     xlink:href="file:///home/pivarski/physics/talks/latest/plots/dijet_resonances.png"
+     id="image3063"
+     x="4"
+     y="78.865494" />
+  <text
+     xml:space="preserve"
+     style="font-size:48.90358734px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+     x="200.31723"
+     y="45.155266"
+     id="text3093"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3095"
+       x="200.31723"
+       y="45.155266">dijet mass</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text3097"
+     y="45.155266"
+     x="962.77368"
+     style="font-size:48.90358734px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+     xml:space="preserve"><tspan
+       y="45.155266"
+       x="962.77368"
+       id="tspan3099"
+       sodipodi:role="line">trijet mass</tspan></text>
+</svg>
